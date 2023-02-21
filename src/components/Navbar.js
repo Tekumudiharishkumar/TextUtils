@@ -105,6 +105,6 @@ Navbar.propTypes = {
 //default props
 //if we donot pass any props to the component, These default props gets added.
 Navbar.defaultProps = {
-  title: "Kalyan",
-  AboutText: "about kalyan",
+  title: "Harish",
+  AboutText: "about harish",
 };
